@@ -1,0 +1,2 @@
+   1 1 !number of steps, number of integration points
+ 0.00005  !tolerance for BC

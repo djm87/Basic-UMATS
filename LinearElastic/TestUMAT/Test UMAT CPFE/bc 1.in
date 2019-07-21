@@ -1,0 +1,4 @@
+1 0 0 0 0 0 						!1 to specify strain component, 0 to specify stress component
+0.1 0 0 0 0 0	!specified strain and/or stress components (ABAQUS CONVENTION, 11 22 33 12 13 23)
+273.000 273.000 					!starting temperature, end temperature
+1.000  0.05 						!total step time, time increment
